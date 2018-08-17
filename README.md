@@ -1,4 +1,4 @@
-# anime
+# Vue-Anime-Novel
 
 ### Настройки
 ```
