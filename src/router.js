@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import City from './rooms/City.vue';
+import Clouds from './locations/Clouds.vue';
 
 Vue.use(Router);
 
@@ -10,8 +10,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'city',
-      component: City
+      name: 'clouds',
+      component: Clouds
     }
   ]
 });
